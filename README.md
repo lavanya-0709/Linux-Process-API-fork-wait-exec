@@ -59,7 +59,7 @@ int main(void)
 
 
 
-##OUTPUT
+## +OUTPUT
 
 
 ```
@@ -109,7 +109,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ```
 localhost:~# gcc -o output.c pidcheck.c
@@ -214,7 +214,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
